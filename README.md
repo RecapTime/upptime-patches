@@ -1,6 +1,6 @@
 # ⬆️📈 Upptime Uptime Monitor
 
-This repository contains Upptime's GitHub Action.
+This repository contains Upptime's GitHub Action for [Recap Time Squad's repo](https://github.com/RecapTime/infra-monitoring) with customizations specific to our use case.
 
 [**To get started, visit upptime/upptime →**](https://github.com/upptime/upptime)
 
@@ -13,7 +13,7 @@ This repository is for Upptime's GitHub Action. We love contributions, so please
 
 ### Issues
 
-We use the [upptime/upptime](https://github.com/upptime/upptime) repository for issues for all projects, including this one. If you found a bug or have a feature request, [open an issue](https://github.com/upptime/upptime/issues) in the Upptime repository and add the label "action".
+For issues thaT affects BOTH this fork and upstream, please [file in upstream instead](https://github.com/upptime/upptime/issues). Otherwise, TBD.
 
 ## 💻 Usage
 
